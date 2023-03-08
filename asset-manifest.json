@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExpenseTracker-and-Calculator/static/css/main.12f683ff.css",
+    "main.js": "/ExpenseTracker-and-Calculator/static/js/main.c69d634e.js",
+    "index.html": "/ExpenseTracker-and-Calculator/index.html",
+    "main.12f683ff.css.map": "/ExpenseTracker-and-Calculator/static/css/main.12f683ff.css.map",
+    "main.c69d634e.js.map": "/ExpenseTracker-and-Calculator/static/js/main.c69d634e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f683ff.css",
+    "static/js/main.c69d634e.js"
+  ]
+}
